@@ -1,0 +1,167 @@
+﻿[
+  {
+    "phw": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "ahw": {
+      "identity": 18,
+      "start": 4,
+      "end": 10,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Agent Smith"
+        ]
+      }
+    },
+    "m": {
+      "identity": 10,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix Revolutions",
+        "tagline": "Everything that has a beginning has an end",
+        "released": 2003
+      }
+    },
+    "akr": {
+      "identity": 15,
+      "start": 1,
+      "end": 10,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Neo"
+        ]
+      }
+    },
+    "pkr": {
+      "identity": 1,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Keanu Reeves",
+        "born": 1964
+      }
+    }
+  },
+  {
+    "phw": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "ahw": {
+      "identity": 11,
+      "start": 4,
+      "end": 9,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Agent Smith"
+        ]
+      }
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix Reloaded",
+        "tagline": "Free your mind",
+        "released": 2003
+      }
+    },
+    "akr": {
+      "identity": 8,
+      "start": 1,
+      "end": 9,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Neo"
+        ]
+      }
+    },
+    "pkr": {
+      "identity": 1,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Keanu Reeves",
+        "born": 1964
+      }
+    }
+  },
+  {
+    "phw": {
+      "identity": 4,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "ahw": {
+      "identity": 3,
+      "start": 4,
+      "end": 0,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Agent Smith"
+        ]
+      }
+    },
+    "m": {
+      "identity": 0,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "title": "The Matrix",
+        "tagline": "Welcome to the Real World",
+        "released": 1999
+      }
+    },
+    "akr": {
+      "identity": 0,
+      "start": 1,
+      "end": 0,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Neo"
+        ]
+      }
+    },
+    "pkr": {
+      "identity": 1,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Keanu Reeves",
+        "born": 1964
+      }
+    }
+  }
+]

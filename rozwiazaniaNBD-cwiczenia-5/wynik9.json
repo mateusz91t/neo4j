@@ -1,0 +1,635 @@
+﻿[
+  {
+    "p": {
+      "identity": 167,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Dominic Cooper",
+        "set": "Person",
+        "born": 1978
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1500,
+      "start": 167,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Howard Stark"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 166,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Tommy Lee Jones",
+        "set": "Person",
+        "born": 1946
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1499,
+      "start": 166,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Colonel Chester Phillips"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 168,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Richard Armitage",
+        "set": "Person",
+        "born": 1971
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1501,
+      "start": 168,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Heinz Kruger"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 1217,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hugo Weaving",
+        "born": 1960
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1495,
+      "start": 1217,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Johann Schmidt",
+          "Red Skull"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 170,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Samuel L. Jackson",
+        "set": "Person",
+        "born": 1948
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1503,
+      "start": 170,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Nick Fury"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 159,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Joe Johnston",
+        "set": "Person",
+        "born": 1950
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1491,
+      "start": 159,
+      "end": 158,
+      "type": "DIRECTED",
+      "properties": {}
+    }
+  },
+  {
+    "p": {
+      "identity": 175,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "JJ Feild",
+        "set": "Person",
+        "born": 1978
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1508,
+      "start": 175,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "James Montgomery Falsworth"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 160,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Christopher Markus",
+        "set": "Person",
+        "born": 1970
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1492,
+      "start": 160,
+      "end": 158,
+      "type": "WROTE",
+      "properties": {}
+    }
+  },
+  {
+    "p": {
+      "identity": 171,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Toby Jones",
+        "set": "Person",
+        "born": 1966
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1504,
+      "start": 171,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Dr. Arnim Zola"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 162,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Kevin Feige",
+        "set": "Person",
+        "born": 1973
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1494,
+      "start": 162,
+      "end": 158,
+      "type": "PRODUCED",
+      "properties": {}
+    }
+  },
+  {
+    "p": {
+      "identity": 161,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Stephen McFeely",
+        "set": "Person",
+        "born": 1969
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1493,
+      "start": 161,
+      "end": 158,
+      "type": "WROTE",
+      "properties": {}
+    }
+  },
+  {
+    "p": {
+      "identity": 174,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Kenneth Choi",
+        "set": "Person",
+        "born": 1971
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1507,
+      "start": 174,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Jim Morita"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 165,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Sebastian Stan",
+        "set": "Person",
+        "born": 1982
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1498,
+      "start": 165,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "James Buchanan 'Bucky' Barnes"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 172,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Neal McDonough",
+        "set": "Person",
+        "born": 1966
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1505,
+      "start": 172,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Timothy 'Dum Dum' Dugan"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 173,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Derek Luke",
+        "set": "Person",
+        "born": 1974
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1506,
+      "start": 173,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Gabe Jones"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 169,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Stanley Tucci",
+        "set": "Person",
+        "born": 1960
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1502,
+      "start": 169,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Dr. Abraham Erskine"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 164,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Hayley Atwell",
+        "set": "Person",
+        "born": 1982
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1497,
+      "start": 164,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Peggy Carter"
+        ]
+      }
+    }
+  },
+  {
+    "p": {
+      "identity": 163,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "Chris Evans",
+        "set": "Person",
+        "born": 1981
+      }
+    },
+    "m": {
+      "identity": 158,
+      "labels": [
+        "Movie"
+      ],
+      "properties": {
+        "tagline": "When patriots become heroes",
+        "set": "Movie",
+        "title": "Captain America: The First Avenger",
+        "released": 2011
+      }
+    },
+    "a": {
+      "identity": 1496,
+      "start": 163,
+      "end": 158,
+      "type": "ACTED_IN",
+      "properties": {
+        "roles": [
+          "Captain America",
+          "Steve Rogers"
+        ]
+      }
+    }
+  }
+]
